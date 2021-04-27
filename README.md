@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=panditrahulsharma&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/panditrahulsharma)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditrahulsharma&langs_count=8&layout=compact&count_private=true)](https://github.com/panditrahulsharma)
-
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=panditrahulsharma&count_private=true&show_icons=true&theme=synthwave" />
