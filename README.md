@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthaDhar&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ParthaDhar)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaDhar&langs_count=8&layout=compact&count_private=true)](https://github.com/ParthaDhar)
+
 
 <!--
 **panditrahulsharma/panditrahulsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
