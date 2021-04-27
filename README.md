@@ -26,7 +26,7 @@
 <img width ='44px' align='center' src ='https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png'>
 <img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png'>
 <img width ='44px' align='center' src ='https://selenium-python.readthedocs.io/_static/logo.png'>
-<img width ='44px' align='center' src =''>
+<img width ='44px' align='center' src ='https://developers.redhat.com/blog/wp-content/uploads/2018/12/kafka-logo-wide.png'>
 <img width ='44px' align='center' src =''>
 <img width ='44px' align='center' src =''>
 <img width ='44px' align='center' src =''>
