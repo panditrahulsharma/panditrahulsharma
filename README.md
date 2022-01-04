@@ -34,10 +34,7 @@
 <img width ='84px' align='center' src ='https://spark.apache.org/images/kafka.png'>
 <img width ='84px' align='center' src ='https://spark.apache.org/images/delta-lake-logo.png'>
 <img width ='84px' align='center' src ='https://spark.apache.org/images/dbt.png'>
-<img width ='44px' align='center' src =''>
-<img width ='44px' align='center' src =''>
-
-<img width ='44px' align='center' src =''> -->
+<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png'>
 <br>
 </p>
 <!--
