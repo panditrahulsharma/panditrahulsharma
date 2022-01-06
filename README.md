@@ -33,8 +33,8 @@
 <img width ='104px' align='center' src ='https://spark.apache.org/images/kafka.png'>
 <img width ='104px' align='center' src ='https://spark.apache.org/images/delta-lake-logo.png'>
 <img width ='104px' align='center' src ='https://spark.apache.org/images/dbt.png'>
-<img width ='84px' align='center' src ='https://docs.celeryproject.org/en/stable/_static/celery_512.png'>
-<img width ='84px' align='center' src ='https://secrethub.io/img/gitlab-ci.png'>
+<img width ='74px' align='center' src ='https://docs.celeryproject.org/en/stable/_static/celery_512.png'>
+<img width ='74px' align='center' src ='https://secrethub.io/img/gitlab-ci.png'>
 
   <br>
 </p>
