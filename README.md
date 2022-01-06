@@ -26,14 +26,17 @@
 <img width ='94px' align='center' src ='https://spark.apache.org/images/AirflowLogo.png'>
 <img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png'>
 <img width ='44px' align='center' src ='https://selenium-python.readthedocs.io/_static/logo.png'>
-<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/220px-Databricks_Logo.png'>
+<img width ='104px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/220px-Databricks_Logo.png'>
 <img width ='44px' align='center' src ='https://media-exp1.licdn.com/dms/image/C560BAQGGtjRTUZWBbA/company-logo_200_200/0/1601307683892?e=2159024400&v=beta&t=ii3VobqVjfMrCyh_j--9jr6wksY5JBRSAMYbuKznIlE'>
 <img width ='104px' align='center' src ='https://mpng.subpng.com/20181107/gf/kisspng-amazon-com-amazon-redshift-amazon-web-services-dat-5be382c7b24ec6.5023994315416368077304.jpg'>
 <img width ='104px' align='center' src ='https://spark.apache.org/images/Elasticsearch.png'>
 <img width ='104px' align='center' src ='https://spark.apache.org/images/kafka.png'>
 <img width ='104px' align='center' src ='https://spark.apache.org/images/delta-lake-logo.png'>
 <img width ='104px' align='center' src ='https://spark.apache.org/images/dbt.png'>
-<br>
+<img width ='104px' align='center' src ='https://docs.celeryproject.org/en/stable/_static/celery_512.png'>
+<img width ='104px' align='center' src ='https://secrethub.io/img/gitlab-ci.png'>
+
+  <br>
 </p>
 <!--
 **panditrahulsharma/panditrahulsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
