@@ -35,6 +35,9 @@
 <img width ='104px' align='center' src ='https://spark.apache.org/images/dbt.png'>
 <img width ='64px' align='center' src ='https://docs.celeryproject.org/en/stable/_static/celery_512.png'>
 <img width ='64px' align='center' src ='https://secrethub.io/img/gitlab-ci.png'>
+  <img width ='64px' align='center' src ='https://www.cloudsavvyit.com/p/uploads/2021/04/075c8694.jpeg'>
+  
+  
 
   <br>
 </p>
