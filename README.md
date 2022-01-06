@@ -35,7 +35,7 @@
 <img width ='104px' align='center' src ='https://spark.apache.org/images/dbt.png'>
 <img width ='64px' align='center' src ='https://docs.celeryproject.org/en/stable/_static/celery_512.png'>
 <img width ='64px' align='center' src ='https://secrethub.io/img/gitlab-ci.png'>
-  <img width ='64px' align='center' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFf4VISvZA8sgxVOyWHqTAUFWJq8xaYzHitvV_Q5x2IqCo7MRuh0z_7USZgIUwLIZw-g&usqp=CAU'>
+  <img width ='64px' align='center' src ='https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png'>
   
   
 
