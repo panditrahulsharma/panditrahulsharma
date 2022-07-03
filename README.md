@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> My GitHub Stats <img src='https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat-768x576.gif' width='25px' height="15px"> </h2>
+<h2> My GitHub Stats <img src='https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat-768x576.gif' width='25px' height="25px"> </h2>
 
 
 <a href="https://github.com/panditrahulsharma/apache-airflow">
